@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+pandas
+joblib
+python-dotenv
+supabase
+python-multipart
+reportlab
+openai
